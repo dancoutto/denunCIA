@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="../img/favicon.png">
+    <link rel="stylesheet" href="../css/login.css">
+    <title>denunCIA - Alterando status</title>
+</head>
+
+<body class="container">
+    <main class="main">
+        <div class="widget">
+            <form method="post" action="Alteracao.php">
+                <a href="areaRestrita.php"><button type="button" class="button">Voltar</button></a><br>
+                <h1 class="h1">Alterando status</h1>
+                <label for="status">Escolha o novo status:</label><br>
+                <select class="input" id="status" name="status">
+                    <option value="Aberto">Aberto</option>
+                    <option value="Em andamento">Em andamento</option>
+                    <option value="Fechado">Fechado</option>
+                </select>
+                <input type="text" class="input" id="pesquisa" name="pesquisa" placeholder="Informe o número do protocolo..." required/><br><br>
+                <button type="submit" class="button">Alterar</button>
+          </div>
+        </form>
+        </div>
+    </main>
+</body>
+</html>
