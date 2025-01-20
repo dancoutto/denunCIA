@@ -52,4 +52,3 @@ Here are some images of the project:
 ![denuncia2](https://github.com/user-attachments/assets/7ada80d6-5a65-4b83-9468-ca17d4e4e01f)
 ![denuncia3](https://github.com/user-attachments/assets/c0db1386-a76b-4e67-bd45-be40360c18e6)
 ![denuncia4](https://github.com/user-attachments/assets/c8b73098-6441-4502-abdf-66d1e3235a05)
-![denuncia5](https://github.com/user-attachments/assets/db4b8965-3c1e-4a86-9879-a1a862ffcf9a)
